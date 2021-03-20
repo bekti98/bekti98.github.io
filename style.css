@@ -3,14 +3,11 @@
   background-color: #e2edff;
 }
 
-#list {
+#order,
+#brand {
   background-color: #e2edff;
 }
 
 section {
   padding-top: 5rem;
-}
-
-.kaki {
-  background-color: #e2edff
 }
